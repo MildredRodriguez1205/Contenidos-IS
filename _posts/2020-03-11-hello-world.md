@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Fundamentos a la Ingeiería de software"
+title: "Fundamentos a la IngeNiería de software"
 categories: junk
 tags: [markdown, css, html]
 author:
   - Mildred Rodriguez
-  - 
 ---
 
  Caracterizar la fundamentación teórica del software, mediante el análisis de su evolución y del proceso de ingeniería, que permitan identificar el ámbito de la
