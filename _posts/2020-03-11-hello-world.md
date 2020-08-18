@@ -3,7 +3,8 @@ layout: post
 title: Fundamentos de Ingenieria de software
 author: Shangzhi Huang
 date: 2020-08-17 +0800
-
+---
+---
 1.1.1	Definiciones y Objetivos de la Ingeniería de software. 
 1.1.2 La evolución del software 
 1.1.3 La crisis del software 
@@ -19,6 +20,6 @@ date: 2020-08-17 +0800
 1.3.2 Información y datos 
 1.3.3 Tipos de Sistemas de información
 
-
+---
 
 Mi nombre es Mildred Rodriguez Salazar, soy estudiante de la Universidad de Guayaquil, de la carrera de Software.
