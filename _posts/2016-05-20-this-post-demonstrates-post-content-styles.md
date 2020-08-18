@@ -5,7 +5,6 @@ categories: junk
 tags: [markdown, css, html]
 author:
   - Mildred Rodriguez
-  - 
 ---
 
  Identificar el ciclo de vida del software a través de los estándares IEEE para diferenciar los modelos de desarrollo de software. 
